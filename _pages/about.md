@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior Economics Data Analyst at <a href='https://www.bloomberg.com/'>Bloomberg</a>. BSc Mathematics and Applied Mathematics, <a href='https://www.sustech.edu.cn/en'>SUSTech</a>.
+subtitle: Data analyst · Mathematics · Topological data analysis
 
 profile:
   align: right
@@ -10,22 +10,34 @@ profile:
   image_circular: false
   more_info: >
     <p>London, United Kingdom</p>
-    <p>qinyuhe666@gmail.com</p>
+    <p><a href="mailto:qinyuhe666@gmail.com">qinyuhe666@gmail.com</a></p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
   enabled: true
   scrollable: true
-  limit: 5
+  limit: 3
 
 latest_posts:
   enabled: false
 ---
 
-I am a data analyst in the Global Data Department at Bloomberg, where I work on macroeconomic data and analytics. I hold a BSc in Mathematics and Statistics from UCL (First Class Honours) and an MSc in Risk Management and Financial Engineering from Imperial College London (Distinction). I am completing my BSc in Mathematics and Applied Mathematics at the Southern University of Science and Technology (SUSTech), where my undergraduate thesis studies how persistent-homology-based topological features can complement geometric learning on 3D point clouds.
+I am **Yuhe Qin**, a senior economics data analyst at [Bloomberg](https://www.bloomberg.com/) in London. I work on macroeconomic data and analytics in the Global Data Department, building and maintaining datasets used on the Bloomberg Terminal.
 
-My interests sit at the intersection of data analysis, machine learning, and applied mathematics. I enjoy building practical tools that make abstract ideas tangible—for example, my [interactive Vietoris–Rips demo](https://yuheqin-alina.github.io/vietoris-rips-persistence/) visualizes persistent homology for 2D point clouds. I am also interested in human–computer interaction and wearable technology, and I co-authored a CHI 2026 extended abstract on a pneumatic, adjustable-buoyancy wearable for prenatal water activities.
+### Education
 
-Outside of work, I continue developing my technical skills through projects in topological data analysis, data science, and innovative technology applications.
+- **BSc Mathematics and Applied Mathematics**, Southern University of Science and Technology (SUSTech), 2022–2026  
+  Undergraduate thesis on topological feature embedding for machine learning on 3D point clouds (advisor: Yifei Zhu).
+- **MSc Risk Management and Financial Engineering** (Distinction), Imperial College London, 2017–2018
+- **BSc Mathematics and Statistics** (First Class Honours), UCL, 2014–2017
+- **Data Science Career Accelerator**, University of Cambridge, 2024
+
+### Research & projects
+
+My interests span data analysis, machine learning, and applied mathematics. I am especially drawn to **topological data analysis** and how persistent homology can capture global structure in point clouds. I built an [interactive Vietoris–Rips demo](https://yuheqin-alina.github.io/vietoris-rips-persistence/) to visualize filtrations and persistence diagrams for 2D point clouds.
+
+I am also interested in human–computer interaction and wearable technology. I co-authored a CHI 2026 extended abstract on a pneumatic, adjustable-buoyancy wearable for prenatal water activities.
+
+See my [projects](/projects/) and [CV](/cv/) for more detail.
