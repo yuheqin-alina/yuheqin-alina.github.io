@@ -30,13 +30,4 @@ My research interests center on **topological data analysis** and **topology-awa
 
 I enjoy building tools that make abstract mathematics tangible—for example, my [interactive Vietoris–Rips demo](https://vietoris-rips-persistence.onrender.com/) visualizes filtrations and persistence diagrams on 2D point clouds.
 
-### Teaching Experience (Spring 2026)
-
-**Teaching Assistant and Grader, Calculus II**  
-Southern University of Science and Technology, Shenzhen, China
-
-- Prepared and delivered weekly recitation and review sessions in English for a class of 37 students.
-- Reviewed common mistakes from previous homework and guided students through in-class practice problems.
-- Held office hours and graded homework, providing individualized support and feedback on students' performance.
-
 See my [projects](/projects/) and [CV](/cv/) for more detail.
