@@ -28,6 +28,15 @@ I am **Yuhe Qin**, an undergraduate in the **Fields Honors Class in Mathematics*
 
 My research interests center on **topological data analysis** and **topology-aware learning**. My bachelor's thesis, supervised by **Prof. Yifei Zhu**, studies geometric and topological inductive biases in deep learning for 3D point clouds, including persistent homology for feature extraction and ablation studies with PointNet backends. I previously worked as a research intern on computational topology and signal representation, and presented a poster on topology-enhanced machine learning at **SPIRES 2024** in Oxford.
 
-I enjoy building tools that make abstract mathematics tangible—for example, my [interactive Vietoris–Rips demo](https://yuheqin-alina.github.io/vietoris-rips-persistence/) visualizes filtrations and persistence diagrams on 2D point clouds. In Spring 2026 I serve as a teaching assistant and grader for Calculus II at SUSTech.
+I enjoy building tools that make abstract mathematics tangible—for example, my [interactive Vietoris–Rips demo](https://vietoris-rips-persistence.onrender.com/) visualizes filtrations and persistence diagrams on 2D point clouds.
+
+### Teaching Experience (Spring 2026)
+
+**Teaching Assistant and Grader, Calculus II**  
+Southern University of Science and Technology, Shenzhen, China
+
+- Prepared and delivered weekly recitation and review sessions in English for a class of 37 students.
+- Reviewed common mistakes from previous homework and guided students through in-class practice problems.
+- Held office hours and graded homework, providing individualized support and feedback on students' performance.
 
 See my [projects](/projects/) and [CV](/cv/) for more detail.
