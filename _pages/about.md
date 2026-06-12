@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: B.Sc. Mathematics and Applied Mathematics · <a href='https://www.sustech.edu.cn/en'>SUSTech</a> · Visiting Student, <a href='https://www.berkeley.edu/'>UC Berkeley</a>
+subtitle: Incoming M.S., Applied & Computational Mathematics · <a href='https://www.washington.edu/'>UW</a> · B.Sc., <a href='https://www.sustech.edu.cn/en'>SUSTech</a>
 
 profile:
   align: right
@@ -24,7 +24,7 @@ latest_posts:
   enabled: false
 ---
 
-I am **Yuhe Qin**, an undergraduate in the **Fields Honors Class in Mathematics** at the [Southern University of Science and Technology](https://www.sustech.edu.cn/en) (SUSTech), pursuing a B.Sc. in Mathematics and Applied Mathematics (expected Jul 2026). I was a visiting student at [UC Berkeley](https://www.berkeley.edu/) in 2025, where I studied efficient algorithms, data structures, artificial intelligence, and discrete mathematics.
+I am **Yuhe Qin**, an undergraduate in the **Fields Honors Class in Mathematics** at the [Southern University of Science and Technology](https://www.sustech.edu.cn/en) (SUSTech), pursuing a B.Sc. in Mathematics and Applied Mathematics (expected Jul 2026). I will begin an **M.S. in Applied & Computational Mathematics** at the [University of Washington](https://www.washington.edu/) in Autumn 2026. I was a visiting student at [UC Berkeley](https://www.berkeley.edu/) in 2025, where I studied efficient algorithms, data structures, artificial intelligence, and discrete mathematics.
 
 My research interests center on **topological data analysis** and **topology-aware learning**. My bachelor's thesis, supervised by **Prof. Yifei Zhu**, studies geometric and topological inductive biases in deep learning for 3D point clouds, including persistent homology for feature extraction and ablation studies with PointNet backends. I previously worked as a research intern on computational topology and signal representation, and presented a poster on topology-enhanced machine learning at **SPIRES 2024** in Oxford.
 

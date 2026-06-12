@@ -4,7 +4,7 @@ cv:
   email: qinyuhe666@gmail.com
   location: Shenzhen, China
   image: ""
-  summary: Undergraduate in the Fields Honors Class in Mathematics at SUSTech, with research experience in topological data analysis, topology-aware point cloud learning, and computational topology for signal representation.
+  summary: Undergraduate in the Fields Honors Class in Mathematics at SUSTech; incoming M.S. student in Applied & Computational Mathematics at the University of Washington. Research experience in topological data analysis, topology-aware point cloud learning, and computational topology for signal representation.
 
   social_networks:
     - network: GitHub
@@ -19,6 +19,17 @@ cv:
 
   sections:
     Education:
+      - institution: University of Washington
+        location: Seattle, WA, USA
+        url: https://www.washington.edu/
+        area: Applied & Computational Mathematics
+        studyType: M.S.
+        start_date: 2026-09
+        end_date: ""
+        score: ""
+        highlights:
+          - "Incoming graduate student (expected Autumn 2026)."
+
       - institution: Southern University of Science and Technology
         location: Shenzhen, China
         url: https://www.sustech.edu.cn/en
