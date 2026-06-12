@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "Research projects in topological data analysis, interactive visualizations, and applied machine learning.",
+          description: "Selected projects in topological data analysis, machine learning, and algorithms.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -369,22 +369,45 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-completed-my-undergraduate-thesis-at-sustech-on-topological-feature-embedding-for-machine-learning-on-3d-point-clouds-read-the-thesis",
-          title: 'Completed my undergraduate thesis at SUSTech on topological feature embedding for machine learning...',
+            },},{id: "news-presented-a-poster-on-topology-enhanced-machine-learning-for-speech-consonant-classification-at-spires-2024-in-oxford",
+          title: 'Presented a poster on topology-enhanced machine learning for speech consonant classification at SPIRES...',
           description: "",
-          section: "News",},{id: "news-released-an-interactive-vietoris-rips-persistence-demo-for-visualizing-h-and-h-persistence-diagrams-on-2d-point-clouds",
-          title: 'Released an interactive Vietoris–Rips persistence demo for visualizing H₀ and H₁ persistence diagrams...',
+          section: "News",},{id: "news-began-visiting-student-studies-at-uc-berkeley-jan-dec-2025",
+          title: 'Began visiting student studies at UC Berkeley (Jan – Dec 2025).',
+          description: "",
+          section: "News",},{id: "news-released-an-interactive-vietoris-rips-persistence-demo-with-h-h-and-h-visualization-for-2d-point-clouds",
+          title: 'Released an interactive Vietoris–Rips persistence demo with H₀, H₁, and H₂ visualization for...',
           description: "",
           section: "News",},{id: "projects-vietoris-rips-persistence-demo",
           title: 'Vietoris–Rips Persistence Demo',
           description: "Interactive visualization of Vietoris–Rips filtrations and persistence diagrams for 2D point clouds.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-topological-point-cloud-learning-thesis",
-          title: 'Topological Point Cloud Learning Thesis',
-          description: "Undergraduate thesis on persistent homology and topology-aware learning for 3D point clouds.",
+            },},{id: "projects-topology-aware-learning-for-3d-point-clouds",
+          title: 'Topology-Aware Learning for 3D Point Clouds',
+          description: "Bachelor&#39;s thesis on geometric and topological inductive biases in deep learning for 3D point clouds.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
+            },},{id: "projects-computational-topology-and-signal-representation",
+          title: 'Computational Topology and Signal Representation',
+          description: "Research internship on persistent homology and topology-based speech embeddings.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
+            },},{id: "projects-artificial-intelligence-projects",
+          title: 'Artificial Intelligence Projects',
+          description: "MDPs, Q-learning, and neural network classifiers from scratch (UC Berkeley, Fall 2025).",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_project/";
+            },},{id: "projects-data-structures-and-algorithms-projects",
+          title: 'Data Structures and Algorithms Projects',
+          description: "Java projects on custom data structures, graph search, and semantic queries (UC Berkeley, Spring 2025).",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_project/";
+            },},{id: "projects-semantic-segmentation-for-autonomous-driving",
+          title: 'Semantic Segmentation for Autonomous Driving',
+          description: "Fully Convolutional Networks for pixel-level semantic segmentation (Spring 2023).",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_project/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
@@ -400,7 +423,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/yuhe-undergraduate-thesis.pdf", "_blank");
+          window.open("/assets/pdf/yuhe-cv-202606-ta.pdf", "_blank");
         },
       },{
         id: 'social-email',
