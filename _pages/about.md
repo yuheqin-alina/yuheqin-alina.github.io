@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: Data analyst · Mathematics · Topological data analysis
+subtitle: BSc Mathematics and Applied Mathematics · <a href='https://www.sustech.edu.cn/en'>SUSTech</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>London, United Kingdom</p>
+    <p>Shenzhen, China</p>
     <p><a href="mailto:qinyuhe666@gmail.com">qinyuhe666@gmail.com</a></p>
 
 selected_papers: false
@@ -24,20 +24,10 @@ latest_posts:
   enabled: false
 ---
 
-I am **Yuhe Qin**, a senior economics data analyst at [Bloomberg](https://www.bloomberg.com/) in London. I work on macroeconomic data and analytics in the Global Data Department, building and maintaining datasets used on the Bloomberg Terminal.
+I am **Yuhe Qin**, an undergraduate in **Mathematics and Applied Mathematics** at the [Southern University of Science and Technology](https://www.sustech.edu.cn/en) (SUSTech), Department of Mathematics.
 
-### Education
+My undergraduate thesis, completed in April 2026, studies how **persistent-homology-based topological features** can complement geometric learning on 3D point clouds. The work compares topological representations and integration strategies, and includes PointNet-based experiments on ModelNet40 using persistence-image descriptors from H₀ and H₁. My advisor is **Yifei Zhu**.
 
-- **BSc Mathematics and Applied Mathematics**, Southern University of Science and Technology (SUSTech), 2022–2026  
-  Undergraduate thesis on topological feature embedding for machine learning on 3D point clouds (advisor: Yifei Zhu).
-- **MSc Risk Management and Financial Engineering** (Distinction), Imperial College London, 2017–2018
-- **BSc Mathematics and Statistics** (First Class Honours), UCL, 2014–2017
-- **Data Science Career Accelerator**, University of Cambridge, 2024
+I am interested in topological data analysis, point cloud learning, and making topological ideas easier to explore. I built an [interactive Vietoris–Rips demo](https://yuheqin-alina.github.io/vietoris-rips-persistence/) that visualizes filtrations and persistence diagrams for 2D point clouds.
 
-### Research & projects
-
-My interests span data analysis, machine learning, and applied mathematics. I am especially drawn to **topological data analysis** and how persistent homology can capture global structure in point clouds. I built an [interactive Vietoris–Rips demo](https://yuheqin-alina.github.io/vietoris-rips-persistence/) to visualize filtrations and persistence diagrams for 2D point clouds.
-
-I am also interested in human–computer interaction and wearable technology. I co-authored a CHI 2026 extended abstract on a pneumatic, adjustable-buoyancy wearable for prenatal water activities.
-
-See my [projects](/projects/) and [CV](/cv/) for more detail.
+More details are on my [projects](/projects/) and [CV](/cv/) pages.

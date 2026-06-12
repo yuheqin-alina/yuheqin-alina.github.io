@@ -1,57 +1,24 @@
 {
   "basics": {
     "name": "Yuhe Qin",
-    "label": "Senior Economics Data Analyst",
+    "label": "Undergraduate, Mathematics and Applied Mathematics",
     "image": "",
     "email": "qinyuhe666@gmail.com",
-    "summary": "Data analyst at Bloomberg with a background in mathematics, statistics, and financial engineering. Research interests include topological data analysis, point cloud learning, and human–computer interaction.",
+    "summary": "Undergraduate at SUSTech studying mathematics and applied mathematics, with research interests in topological data analysis and topology-aware learning on point clouds.",
     "location": {
-      "city": "London",
-      "region": "England",
-      "countryCode": "GB"
+      "city": "Shenzhen",
+      "region": "Guangdong",
+      "countryCode": "CN"
     },
     "profiles": [
       {
         "network": "GitHub",
         "username": "yuheqin-alina",
         "url": "https://github.com/yuheqin-alina"
-      },
-      {
-        "network": "LinkedIn",
-        "username": "yuhe-qin",
-        "url": "https://www.linkedin.com/in/yuhe-qin"
       }
     ]
   },
-  "work": [
-    {
-      "name": "Bloomberg LP",
-      "position": "Senior Economics Data Analyst",
-      "location": "London, United Kingdom",
-      "startDate": "2022-03-01",
-      "endDate": "",
-      "summary": "Macro economics and global data analytics in the Global Data Department.",
-      "highlights": ["Economics data analysis and quality assurance for Bloomberg Terminal datasets."]
-    },
-    {
-      "name": "Bloomberg LP",
-      "position": "Global Data Analyst",
-      "location": "London, United Kingdom",
-      "startDate": "2018-10-01",
-      "endDate": "2022-03-01",
-      "summary": "Research and data operations in the Global Data Department.",
-      "highlights": ["Supported economics and financial data products for institutional clients."]
-    },
-    {
-      "name": "Third Bridge Group Limited",
-      "position": "Market Research Analyst",
-      "location": "London, United Kingdom",
-      "startDate": "2018-07-01",
-      "endDate": "2018-09-01",
-      "summary": "Short-term market research support for equity research.",
-      "highlights": ["Conducted telephone interviews and assisted with quarterly research notes."]
-    }
-  ],
+  "work": [],
   "education": [
     {
       "institution": "Southern University of Science and Technology",
@@ -64,68 +31,13 @@
       "score": "",
       "courses": [],
       "highlights": [
-        "Undergraduate thesis on topological feature embedding for machine learning on 3D point clouds.",
+        "Undergraduate thesis: Topological Feature Embedding and Representation for Machine Learning on 3D Point Clouds.",
         "Advisor: Yifei Zhu, Department of Mathematics."
       ]
-    },
-    {
-      "institution": "University of Cambridge",
-      "location": "Cambridge, United Kingdom",
-      "url": "https://www.cam.ac.uk/",
-      "area": "Data Science",
-      "studyType": "Data Science Career Accelerator",
-      "startDate": "2024-01-01",
-      "endDate": "2024-01-01",
-      "score": "",
-      "courses": [],
-      "highlights": ["Statistical concepts, machine learning, time series analysis, NLP, and generative AI."]
-    },
-    {
-      "institution": "Imperial College Business School",
-      "location": "London, United Kingdom",
-      "url": "https://www.imperial.ac.uk/business-school/",
-      "area": "Risk Management and Financial Engineering",
-      "studyType": "MSc",
-      "startDate": "2017-01-01",
-      "endDate": "2018-01-01",
-      "score": "Distinction",
-      "courses": [],
-      "highlights": ["Financial modelling, fixed income securities, financial engineering, and Python/C++ for finance."]
-    },
-    {
-      "institution": "University College London",
-      "location": "London, United Kingdom",
-      "url": "https://www.ucl.ac.uk/",
-      "area": "Mathematics and Statistics",
-      "studyType": "BSc",
-      "startDate": "2014-01-01",
-      "endDate": "2017-01-01",
-      "score": "First Class Honours",
-      "courses": [],
-      "highlights": ["Mathematics and Statistical Science."]
     }
   ],
-  "awards": [
-    {
-      "title": "CFA Level 2",
-      "date": "2022-04-01",
-      "awarder": "CFA Institute",
-      "summary": "Passed CFA Level II examination."
-    },
-    {
-      "title": "CFA Level 1",
-      "date": "2018-08-01",
-      "awarder": "CFA Institute",
-      "summary": "Passed CFA Level I examination."
-    }
-  ],
+  "awards": [],
   "publications": [
-    {
-      "name": "A Pneumatic, Adjustable-Buoyancy Wearable for Prenatal Water Activities",
-      "publisher": "Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems",
-      "releaseDate": "2026-01-01",
-      "summary": "A wearable prototype designed to support prenatal aquatic activities through adjustable buoyancy."
-    },
     {
       "name": "Topological Feature Embedding and Representation for Machine Learning on 3D Point Clouds",
       "publisher": "Southern University of Science and Technology",
@@ -136,42 +48,37 @@
   ],
   "skills": [
     {
-      "name": "Programming & Data",
-      "level": "Advanced",
-      "keywords": ["Python", "R", "MATLAB", "SQL", "C++", "data analysis", "machine learning", "statistical modelling"]
-    },
-    {
-      "name": "Finance & Economics",
-      "level": "Advanced",
-      "keywords": ["Financial engineering", "risk management", "macroeconomic data", "portfolio management", "fixed income"]
+      "name": "Programming",
+      "level": "",
+      "keywords": ["Python", "PyTorch"]
     },
     {
       "name": "Research",
-      "level": "Intermediate",
-      "keywords": ["Topological data analysis", "persistent homology", "point cloud learning", "PyTorch", "Vietoris–Rips filtrations"]
+      "level": "",
+      "keywords": ["Topological data analysis", "persistent homology", "point cloud learning", "Vietoris–Rips filtrations", "persistence images"]
     }
   ],
   "languages": [
     {
-      "language": "English",
-      "fluency": "Professional working proficiency"
-    },
-    {
       "language": "Chinese",
       "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": ""
     }
   ],
   "interests": [
     {
-      "name": "Research & Technology",
-      "keywords": ["Topological data analysis", "human–computer interaction", "wearable technology", "data science"]
+      "name": "Mathematics & TDA",
+      "keywords": ["Topological data analysis", "persistent homology", "machine learning on point clouds"]
     }
   ],
   "projects": [
     {
       "name": "Vietoris–Rips Persistence Demo",
       "summary": "Interactive web demo for Vietoris–Rips filtration and persistence diagrams on 2D point clouds.",
-      "highlights": ["Built with HTML and JavaScript.", "Visualizes topological features across scales."],
+      "highlights": ["HTML and JavaScript visualization."],
       "startDate": "2026-05-01",
       "endDate": "",
       "url": "https://github.com/yuheqin-alina/vietoris-rips-persistence"

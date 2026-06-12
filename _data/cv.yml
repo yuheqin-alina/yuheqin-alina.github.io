@@ -1,23 +1,21 @@
 cv:
   name: Yuhe Qin
-  label: Senior Economics Data Analyst
+  label: Undergraduate, Mathematics and Applied Mathematics
   email: qinyuhe666@gmail.com
-  location: London, United Kingdom
+  location: Shenzhen, China
   image: ""
-  summary: Data analyst at Bloomberg with a background in mathematics, statistics, and financial engineering. Research interests include topological data analysis, point cloud learning, and human–computer interaction.
+  summary: Undergraduate at SUSTech studying mathematics and applied mathematics, with research interests in topological data analysis and topology-aware learning on point clouds.
 
   social_networks:
     - network: GitHub
       username: yuheqin-alina
-    - network: LinkedIn
-      username: yuhe-qin
 
   address:
     street: ""
-    city: London
-    region: England
+    city: Shenzhen
+    region: Guangdong
     postalCode: ""
-    countryCode: GB
+    countryCode: CN
 
   sections:
     Education:
@@ -32,133 +30,42 @@ cv:
           - "Undergraduate thesis: Topological Feature Embedding and Representation for Machine Learning on 3D Point Clouds."
           - "Advisor: Yifei Zhu, Department of Mathematics."
 
-      - institution: University of Cambridge
-        location: Cambridge, United Kingdom
-        url: https://www.cam.ac.uk/
-        area: Data Science
-        studyType: Data Science Career Accelerator
-        start_date: 2024
-        end_date: 2024
-        highlights:
-          - "Statistical concepts, machine learning, time series analysis, NLP, and generative AI."
-
-      - institution: Imperial College Business School
-        location: London, United Kingdom
-        url: https://www.imperial.ac.uk/business-school/
-        area: Risk Management and Financial Engineering
-        studyType: MSc
-        start_date: 2017
-        end_date: 2018
-        score: Distinction
-        highlights:
-          - "Financial modelling, fixed income securities, financial engineering, and Python/C++ for finance."
-
-      - institution: University College London
-        location: London, United Kingdom
-        url: https://www.ucl.ac.uk/
-        area: Mathematics and Statistics
-        studyType: BSc
-        start_date: 2014
-        end_date: 2017
-        score: First Class Honours
-        highlights:
-          - "Mathematics and Statistical Science."
-
-    Experience:
-      - company: Bloomberg LP
-        position: Senior Economics Data Analyst
-        location: London, United Kingdom
-        start_date: 2022-03
-        end_date: present
-        summary: Macro economics and global data analytics in the Global Data Department.
-        highlights:
-          - "Economics data analysis and quality assurance for Bloomberg Terminal datasets."
-
-      - company: Bloomberg LP
-        position: Global Data Analyst
-        location: London, United Kingdom
-        start_date: 2018-10
-        end_date: 2022-03
-        summary: Research and data operations in the Global Data Department.
-        highlights:
-          - "Supported economics and financial data products for institutional clients."
-
-      - company: Third Bridge Group Limited
-        position: Market Research Analyst
-        location: London, United Kingdom
-        start_date: 2018-07
-        end_date: 2018-09
-        summary: Short-term market research support for equity research.
-        highlights:
-          - "Conducted telephone interviews and assisted with quarterly research notes."
-
-    Awards:
-      - title: CFA Level 2
-        authors:
-          - CFA Institute
-        date: 2022-04
-        awarder: CFA Institute
-        summary: Passed CFA Level II examination.
-
-      - title: CFA Level 1
-        authors:
-          - CFA Institute
-        date: 2018-08
-        awarder: CFA Institute
-        summary: Passed CFA Level I examination.
-
     Publications:
-      - title: A Pneumatic, Adjustable-Buoyancy Wearable for Prenatal Water Activities
-        authors:
-          - Yuhe Qin
-          - Zihe Ran
-          - Xiyu Li
-          - Min Fan
-        publisher: Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems
-        releaseDate: 2026
-        summary: A wearable prototype designed to support prenatal aquatic activities through adjustable buoyancy.
-
       - title: Topological Feature Embedding and Representation for Machine Learning on 3D Point Clouds
         authors:
           - Yuhe Qin
         publisher: Southern University of Science and Technology
         releaseDate: 2026-04-28
-        summary: Undergraduate thesis studying how persistent-homology-based topological features can complement geometric point cloud learning, with PointNet-based experiments on ModelNet40.
+        summary: Undergraduate thesis on how persistent-homology-based topological features can complement geometric point cloud learning, with PointNet-based experiments on ModelNet40.
 
     Skills:
-      - name: Programming & Data
-        level: Advanced
+      - name: Programming
+        level: ""
         icon: fa-solid fa-code
-        keywords: "Python, R, MATLAB, SQL, C++, data analysis, machine learning, statistical modelling"
-
-      - name: Finance & Economics
-        level: Advanced
-        icon: fa-solid fa-chart-line
-        keywords: "Financial engineering, risk management, macroeconomic data, portfolio management, fixed income"
+        keywords: "Python, PyTorch"
 
       - name: Research
-        level: Intermediate
+        level: ""
         icon: fa-solid fa-flask
-        keywords: "Topological data analysis, persistent homology, point cloud learning, PyTorch, Vietoris–Rips filtrations"
+        keywords: "Topological data analysis, persistent homology, point cloud learning, Vietoris–Rips filtrations, persistence images"
 
     Languages:
-      - name: English
-        summary: "Professional working proficiency"
-
       - name: Chinese
         summary: "Native speaker"
 
+      - name: English
+        summary: ""
+
     Interests:
-      - name: Research & Technology
+      - name: Mathematics & TDA
         icon: fa-solid fa-microchip
-        keywords: "Topological data analysis, human–computer interaction, wearable technology, data science"
+        keywords: "Topological data analysis, persistent homology, machine learning on point clouds"
 
     Projects:
       - name: Vietoris–Rips Persistence Demo
-        summary: Interactive single-page web demo for Vietoris–Rips filtration and persistence diagrams (H₀, H₁) on 2D point clouds.
+        summary: Interactive web demo for Vietoris–Rips filtration and persistence diagrams (H₀, H₁) on 2D point clouds.
         highlights:
-          - "Built with HTML and JavaScript."
-          - "Visualizes topological features across scales."
+          - "HTML and JavaScript visualization."
         start_date: 2026-05
         end_date: present
         url: https://github.com/yuheqin-alina/vietoris-rips-persistence
