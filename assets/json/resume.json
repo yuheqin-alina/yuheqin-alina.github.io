@@ -4,7 +4,7 @@
     "label": "B.Sc. Mathematics and Applied Mathematics",
     "image": "",
     "email": "qinyuhe666@gmail.com",
-    "summary": "Undergraduate in the Fields Honors Class in Mathematics at SUSTech, with research experience in topological data analysis, topology-aware point cloud learning, and computational topology for signal representation.",
+    "summary": "Undergraduate in the Fields Honors Class in Mathematics at SUSTech; incoming M.S. student in Applied & Computational Mathematics at the University of Washington. Research experience in topological data analysis, topology-aware point cloud learning, and computational topology for signal representation.",
     "location": {
       "city": "Shenzhen",
       "region": "Guangdong",
@@ -68,6 +68,18 @@
     }
   ],
   "education": [
+    {
+      "institution": "University of Washington",
+      "location": "Seattle, WA, USA",
+      "url": "https://www.washington.edu/",
+      "area": "Applied & Computational Mathematics",
+      "studyType": "M.S.",
+      "startDate": "2026-09-01",
+      "endDate": "",
+      "score": "",
+      "courses": [],
+      "highlights": ["Incoming graduate student (expected Autumn 2026)."]
+    },
     {
       "institution": "Southern University of Science and Technology",
       "location": "Shenzhen, China",
