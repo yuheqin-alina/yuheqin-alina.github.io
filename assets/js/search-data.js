@@ -369,10 +369,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-extended-abstract-a-pneumatic-adjustable-buoyancy-wearable-for-prenatal-water-activities-was-accepted-to-chi-2026",
-          title: 'Our extended abstract A Pneumatic, Adjustable-Buoyancy Wearable for Prenatal Water Activities was accepted...',
-          description: "",
-          section: "News",},{id: "news-completed-my-undergraduate-thesis-at-sustech-on-topological-feature-embedding-for-machine-learning-on-3d-point-clouds-read-the-thesis",
+            },},{id: "news-completed-my-undergraduate-thesis-at-sustech-on-topological-feature-embedding-for-machine-learning-on-3d-point-clouds-read-the-thesis",
           title: 'Completed my undergraduate thesis at SUSTech on topological feature embedding for machine learning...',
           description: "",
           section: "News",},{id: "news-released-an-interactive-vietoris-rips-persistence-demo-for-visualizing-h-and-h-persistence-diagrams-on-2d-point-clouds",
@@ -418,13 +415,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/yuheqin-alina", "_blank");
-        },
-      },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.linkedin.com/in/yuhe-qin", "_blank");
         },
       },{
         id: 'social-rss',
