@@ -1,14 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - yuheqin-alina
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - yuheqin-alina/vietoris-rips-persistence
+  - yuheqin-alina/yuheqin-alina.github.io

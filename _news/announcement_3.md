@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2026-05-22 12:00:00+0800
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Released an interactive [Vietoris–Rips persistence demo](https://github.com/yuheqin-alina/vietoris-rips-persistence) for visualizing H₀ and H₁ persistence diagrams on 2D point clouds.
