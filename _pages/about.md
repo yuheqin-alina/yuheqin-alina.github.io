@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: BSc Mathematics and Applied Mathematics · <a href='https://www.sustech.edu.cn/en'>SUSTech</a>
+subtitle: B.Sc. Mathematics and Applied Mathematics · <a href='https://www.sustech.edu.cn/en'>SUSTech</a> · Visiting Student, <a href='https://www.berkeley.edu/'>UC Berkeley</a>
 
 profile:
   align: right
@@ -24,10 +24,10 @@ latest_posts:
   enabled: false
 ---
 
-I am **Yuhe Qin**, an undergraduate in **Mathematics and Applied Mathematics** at the [Southern University of Science and Technology](https://www.sustech.edu.cn/en) (SUSTech), Department of Mathematics.
+I am **Yuhe Qin**, an undergraduate in the **Fields Honors Class in Mathematics** at the [Southern University of Science and Technology](https://www.sustech.edu.cn/en) (SUSTech), pursuing a B.Sc. in Mathematics and Applied Mathematics (expected Jul 2026). I was a visiting student at [UC Berkeley](https://www.berkeley.edu/) in 2025, where I studied efficient algorithms, data structures, artificial intelligence, and discrete mathematics.
 
-My undergraduate thesis, completed in April 2026, studies how **persistent-homology-based topological features** can complement geometric learning on 3D point clouds. The work compares topological representations and integration strategies, and includes PointNet-based experiments on ModelNet40 using persistence-image descriptors from H₀ and H₁. My advisor is **Yifei Zhu**.
+My research interests center on **topological data analysis** and **topology-aware learning**. My bachelor's thesis, supervised by **Prof. Yifei Zhu**, studies geometric and topological inductive biases in deep learning for 3D point clouds, including persistent homology for feature extraction and ablation studies with PointNet backends. I previously worked as a research intern on computational topology and signal representation, and presented a poster on topology-enhanced machine learning at **SPIRES 2024** in Oxford.
 
-I am interested in topological data analysis, point cloud learning, and making topological ideas easier to explore. I built an [interactive Vietoris–Rips demo](https://yuheqin-alina.github.io/vietoris-rips-persistence/) that visualizes filtrations and persistence diagrams for 2D point clouds.
+I enjoy building tools that make abstract mathematics tangible—for example, my [interactive Vietoris–Rips demo](https://yuheqin-alina.github.io/vietoris-rips-persistence/) visualizes filtrations and persistence diagrams on 2D point clouds. In Spring 2026 I serve as a teaching assistant and grader for Calculus II at SUSTech.
 
-More details are on my [projects](/projects/) and [CV](/cv/) pages.
+See my [projects](/projects/) and [CV](/cv/) for more detail.

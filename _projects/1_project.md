@@ -7,10 +7,12 @@ importance: 1
 category: work
 ---
 
-An interactive single-page web demo for exploring Vietoris–Rips filtrations and persistence diagrams (H₀, H₁) on 2D point clouds.
+A web-based computational topology visualization tool (May 2026, ongoing).
 
-The project makes topological data analysis more accessible by letting users watch how connectivity and loops appear and disappear across scales, and how those features map to a persistence diagram.
+- Built an interactive demo for Vietoris–Rips filtrations and persistence diagrams on 2D point clouds.
+- Visualized H₀, H₁, and H₂ features with birth–death pairs and persistence filtering.
+- Added hover interactions linking simplices, birth–death pairs, and persistence features for easier interpretation.
 
-**Links:** [Live demo](https://yuheqin-alina.github.io/vietoris-rips-persistence/) · [GitHub repository](https://github.com/yuheqin-alina/vietoris-rips-persistence)
+**Links:** [Live demo](https://yuheqin-alina.github.io/vietoris-rips-persistence/) · [GitHub](https://github.com/yuheqin-alina/vietoris-rips-persistence)
 
-**Built with:** HTML, JavaScript
+**Built with:** HTML, CSS, JavaScript

@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Research projects in topological data analysis, interactive visualizations, and applied machine learning.
+description: Selected projects in topological data analysis, machine learning, and algorithms.
 nav: true
 nav_order: 2
 display_categories: [work, fun]

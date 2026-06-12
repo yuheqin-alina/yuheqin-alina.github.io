@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-04-28 12:00:00+0800
+date: 2026-05-01 12:00:00+0800
 inline: true
 related_posts: false
 ---
 
-Completed my undergraduate thesis at SUSTech on topological feature embedding for machine learning on 3D point clouds. [Read the thesis](/assets/pdf/yuhe-undergraduate-thesis.pdf).
+Released an interactive [Vietoris–Rips persistence demo](https://github.com/yuheqin-alina/vietoris-rips-persistence) with H₀, H₁, and H₂ visualization for 2D point clouds.

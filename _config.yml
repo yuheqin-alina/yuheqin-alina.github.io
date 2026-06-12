@@ -9,12 +9,12 @@ last_name: Qin
 contact_note: >
   Email is the best way to reach me.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal website of Yuhe Qin — mathematics undergraduate at SUSTech, researching topological data analysis and point cloud learning.
+  Personal website of Yuhe Qin — mathematics undergraduate at SUSTech and UC Berkeley visiting student, researching topological data analysis and topology-aware learning.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: Yuhe Qin, topological data analysis, persistent homology, point clouds, SUSTech, mathematics
+keywords: Yuhe Qin, topological data analysis, persistent homology, point clouds, SUSTech, UC Berkeley, mathematics
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -190,10 +190,6 @@ exclude:
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
-  - _projects/3_project.md
-  - _projects/4_project.md
-  - _projects/5_project.md
-  - _projects/6_project.md
   - _projects/7_project.md
   - _projects/8_project.md
   - _projects/9_project.md
